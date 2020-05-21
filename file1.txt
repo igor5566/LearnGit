@@ -1,3 +1,5 @@
 Hello from LearnGit!
 
 from dev branch
+
+Master added some changes.
